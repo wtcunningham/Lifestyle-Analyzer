@@ -1,6 +1,6 @@
 {
   "name": "lifestyle-analyzer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-react": "^0.469.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "recharts": "^2.11.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
