@@ -1,0 +1,1 @@
+import { defineConfig } from 'vite'\nimport react from '@'vite/plugin-react'\n\nexport default defineConfig({\n  plugins: [react()],\n})\n

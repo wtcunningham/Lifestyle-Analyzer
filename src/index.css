@@ -1,0 +1,1 @@
+@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n/* Simple theming for our shims */\n :root {\n  --border: 214 32% 91%;\n  --muted: 214 32% 97%;\n  --muted-foreground: 215 16% 47%;\n}\n.text-muted-foreground { color: hsl(var(--muted-foreground)); }\n.bg-muted/\/50 { background-color: rgba(248,250,252,0.5); }\n
